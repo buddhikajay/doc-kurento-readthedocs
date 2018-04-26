@@ -20,7 +20,7 @@ be also installed:
 
 .. sourcecode:: bash
 
-    sudo apt-get install kms-platedetector
+    sudo apt-get install kms-platedetector-6.0
 
 .. warning::
 
